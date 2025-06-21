@@ -122,7 +122,11 @@ def main(args):
         print("No input provided. Use --file <filename> or --text <raw_text> to specify input.")
         sys.exit(1)
 
-    calculate_league(lines)
+    try:
+        calculate_league(lines)
+    except ValueError as e:
+        print(f"Error: {e}")
+        sys.exit(1)
 
 
 if __name__ == "__main__":
