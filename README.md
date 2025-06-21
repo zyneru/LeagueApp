@@ -34,7 +34,7 @@ pip install -r requirements.txt
 ### Using a file:
 
 ```bash
-python league_calculator.py --file matches.txt
+python league_calculator.py --file sample_league.txt
 ```
 
 ### Using raw text:
