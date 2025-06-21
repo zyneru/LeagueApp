@@ -29,7 +29,7 @@ jobs:
 
       - name: Run tests with coverage
         run: |
-          pytest --cov=.
+          PYTHONPATH=$(pwd) pytest --cov=.
 
       - name: Upload coverage report
         uses: actions/upload-artifact@v4
