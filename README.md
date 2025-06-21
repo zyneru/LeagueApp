@@ -19,7 +19,7 @@ A command-line tool to process football match results, calculate league standing
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/your-username/league-calculator.git
+git clone https://github.com/zyneru/LeagueApp.git
 cd league-calculator
 ```
 
