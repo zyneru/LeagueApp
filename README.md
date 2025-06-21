@@ -101,7 +101,7 @@ tests/
 Matches:
 ======================================================================
 Match: Team A 2 (3 pts) vs Team B 1 (0 pts) - WINNER_TEAM1
-Match: Team C 0 (0 pts) vs Team A 3 (3 pts) - WINNER_TEAM1
+Match: Team C 0 (0 pts) vs Team A 3 (3 pts) - WINNER_TEAM2
 Match: Team B 1 (1 pts) vs Team C 1 (1 pts) - DRAW
 ======================================================================
 League results:
